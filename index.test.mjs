@@ -7,8 +7,6 @@ function add(a, b) {
 
 test('simple test', (t) => {
     t.test('add two numbers', () => {
-        const result = add(1, 1)
-
-        assert.equal(result, 2, 'Should be 2')
+        assert.equal(add(1, 1), 2, 'Should be 2')
     })
 })

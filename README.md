@@ -1,1 +1,1 @@
-# Example setup for commitlint with auto-releases
+# Example setup for commitlint with GH action auto-releases
